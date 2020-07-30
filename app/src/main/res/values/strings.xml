@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Wardrobe</string>
+    <string name="add_pant">Add a Pant using</string>
+    <string name="add_shirt">Add a Shirt using</string>
+    <string name="set_image_type">image/*</string>
+    <string name="select_file">Select File</string>
+    <string name="shirt">shirt</string>
+    <string name="pant">pant</string>
+    <string name="add_shirt_image">Add an Image of a Shirt !</string>
+    <string name="add_pant_image">Add an Image of a Pant !</string>
+    <string name="home_title">Wardrobe App</string>
+</resources>
